@@ -43,7 +43,7 @@
 # 
 #-------------------------------------------------------------------------------
 
-# $Id: Objective-C.mk 71 2010-06-27 21:59:05Z macmade@eosgarden.com $
+# $Id$
 
 # Flag to let the makefile knows that the code specific options were included
 CODE_HASOPTIONS        := 1
