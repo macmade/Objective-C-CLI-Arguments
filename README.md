@@ -1,7 +1,8 @@
 Objective-C CLI Arguments
 =========================
 
-### About
+About
+-----
 
 Command-line arguments parsing for Objective-C.
 
