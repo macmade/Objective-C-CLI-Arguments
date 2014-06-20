@@ -1,6 +1,8 @@
 Objective-C CLI Arguments
 =========================
 
+[![Build Status](https://travis-ci.org/macmade/Objective-C-CLI-Arguments.svg?branch=master)](https://travis-ci.org/macmade/Objective-C-CLI-Arguments)
+
 About
 -----
 
